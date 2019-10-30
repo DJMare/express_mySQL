@@ -41,17 +41,21 @@ COMMAND PROMPT
 
     npm install -save-dev nodemon
     
-(10) 
+(10) Install mySQL:
+
+    npm install --save mysql
 
 (11) Start the server with Nodemon with the following command: 
 
     nodemon
 
-(12) Open in VS code
+(12) Open in VS code:
+
+    code . 
 
 
 VS CODE
 
-(11) Navigate to the routes/index.js file and update. Need to require the mySQL:
+(13) Navigate to the routes/index.js file and update. Need to require the mySQL:
 
-(12) Add the connection information to connect to mySQL. 
+(14) Add the connection information to connect to mySQL. 
