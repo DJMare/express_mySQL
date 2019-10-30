@@ -1,6 +1,8 @@
 # express_mySQL
 Connecting to mySQL using Express. 
 
+Install mySQL: https://dev.mysql.com/downloads/installer/ 
+
 COMMAND PROMPT
 
 (1) Run the following to navigate to your Desktop: 
