@@ -36,12 +36,18 @@ COMMAND PROMPT
 (8) Install Nodemon globally: 
 
     npm install -g nodemon
+    
+(9) Install Nodemon as a devDependency in the package.json file within the express_mySQL directory:
 
-(9) Start the server with Nodemon with the following command: 
+    npm install -save-dev nodemon
+    
+(10) 
+
+(11) Start the server with Nodemon with the following command: 
 
     nodemon
 
-(10) Open in VS code
+(12) Open in VS code
 
 
 VS CODE
