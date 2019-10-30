@@ -58,6 +58,6 @@ VS CODE
 
 (13) Navigate to the routes/index.js file and update. Need to require the mySQL: ![open index js file (express_mySQL)](https://user-images.githubusercontent.com/35668707/67824032-7361ea00-fa82-11e9-9598-86352a4e7743.JPG)
 
-
+![add require mySQL index js file (express_mySQL)](https://user-images.githubusercontent.com/35668707/67824086-9b514d80-fa82-11e9-8c03-8a9d48fcbe5d.JPG)
 
 (14) Add the connection information to connect to mySQL. 
