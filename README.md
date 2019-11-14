@@ -1,5 +1,5 @@
 # express_mySQL
-Connecting to mySql using Express. 
+Connecting to mySQL using Express. 
 
 Install mySQL: https://dev.mysql.com/downloads/installer/ 
 
@@ -9,7 +9,7 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: 
+(2) Create a new folder on Desktop: 
 
     mkdir Express
 
