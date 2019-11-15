@@ -1,4 +1,4 @@
-# express_mySQL
+# Express_mySQL
 Connecting to mySQL using Express. 
 
 Install mySQL: https://dev.mysql.com/downloads/installer/ 
